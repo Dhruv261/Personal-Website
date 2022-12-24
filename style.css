@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: white;
+  font-family: Quicksand, 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
+    'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+}
+.main-body-container {
+  height: 100vh;
+  width: 100%;
+  background: center / cover no-repeat
+    url('./assets/ipados-stock-blue-white-background-ipad-ios-13-hd-3208x3208-1550.jpg');
+}
+.inner-content {
+  height: 100vh;
+  width: 100%;
+  backdrop-filter: blur(20px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.text {
+  font-size: 100px;
+  font-weight: 100;
+  text-align: center;
+}
+.text-small {
+  font-size: 42px;
+}
+.buttons {
+  height: auto;
+  padding-top: 35px;
+}
+.a-btn {
+  text-decoration: none;
+  font-weight: 500;
+  border-radius: 4px;
+  padding: 10px 30px;
+}
+.ldin {
+  background-color: #0274b3;
+}
+.ghub {
+  background-color: #50514f;
+}
+.tech-img {
+  height: 75px;
+  margin: 0 10px 0 10px;
+}
