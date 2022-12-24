@@ -9,7 +9,7 @@
   height: 100vh;
   width: 100%;
   background: center / cover no-repeat
-    url('./assets/ipados-stock-blue-white-background-ipad-ios-13-hd-3208x3208-1550.jpg');
+    url('ipados-stock-blue-white-background-ipad-ios-13-hd-3208x3208-1550.jpg');
 }
 .inner-content {
   height: 100vh;
