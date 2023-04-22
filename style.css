@@ -52,6 +52,9 @@ user-select: none;
 .ghub {
   background-color: #50514f;
 }
+.rdwn {
+  background-color: rgb(176, 56, 56);
+}
 .tech-img {
   height: 75px;
   margin: 0 10px 0 10px;
